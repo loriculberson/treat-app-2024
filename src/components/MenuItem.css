@@ -1,0 +1,12 @@
+.item {
+    border: 1px gray solid;
+    text-align: center;
+}
+
+.item-image {
+    max-width: 70px;
+}
+
+.container {
+    display: flex;
+}
